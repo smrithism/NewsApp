@@ -1,0 +1,2 @@
+# NewsApp
+cloning with NewsApp
